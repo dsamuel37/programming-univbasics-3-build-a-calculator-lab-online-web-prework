@@ -19,7 +19,8 @@ num1*num2
 end
 
 def modulo(num1, num2)
-
+  puts "chillin"
+  num1 mod num2
 end
 
 def square_root(num)
