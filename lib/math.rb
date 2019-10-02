@@ -14,7 +14,8 @@ num1/num2
 end
 
 def multiplication(num1, num2)
-
+puts "hbu"
+num1*num2
 end
 
 def modulo(num1, num2)
