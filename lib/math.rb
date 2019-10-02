@@ -25,5 +25,5 @@ end
 
 def square_root(num)
 puts "nice"
-num1**num2
+num1**
 end
