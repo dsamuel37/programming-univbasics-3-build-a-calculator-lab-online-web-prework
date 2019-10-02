@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
   puts "chillin"
-  num1 _mod_ num2
+  num1 % num2
 end
 
 def square_root(num)
